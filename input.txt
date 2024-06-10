@@ -1,0 +1,12 @@
+sebastian-sofia
+sebastian-pescar
+sebastian-pocima
+sofia-sebastian
+sofia-pocima
+sofia-pescar
+pocima-sofia
+pocima-sebastian
+pocima-pescar
+pescar-pocima
+pescar-sofia
+pescar-sebastian
